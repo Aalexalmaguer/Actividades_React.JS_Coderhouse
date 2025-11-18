@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import './App.css'
 import ItemDetailContainer from './ItemDetailContainer.jsx'
 import ItemDetail from './ItemDetail.jsx'
